@@ -1,8 +1,10 @@
-# golden_age_theatrical_adaptations
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16754708.svg)](https://doi.org/10.5281/zenodo.16754708)
+
 ## GENERAL INFORMATION
+
 Title of Dataset: *Theatrical adaptations of Spanish Golden Age drama in the Republican exile (1936-1981)*
 
-DOI:
+DOI:10.5281/zenodo.16754708
 
 Date of publication: August 2025
 
