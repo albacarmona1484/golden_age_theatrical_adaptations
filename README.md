@@ -8,8 +8,6 @@ DOI:10.5281/zenodo.16754707
 
 Date of publication: August 2025
 
-Version: 1.0
-
 Format: CSV (Comma-Separated Values)
 
 Author: Alba Carmona, University of Birmingham, a.l.carmona@bham.ac.uk
