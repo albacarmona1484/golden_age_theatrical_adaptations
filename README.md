@@ -4,8 +4,6 @@
 
 Title of Dataset: *Theatrical adaptations of Spanish Golden Age drama in the Republican exile (1936-1981)*
 
-DOI:10.5281/zenodo.16754707
-
 Date of publication: August 2025
 
 Format: CSV (Comma-Separated Values)
