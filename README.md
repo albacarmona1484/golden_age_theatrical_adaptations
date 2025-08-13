@@ -18,6 +18,7 @@ This dataset records theatrical adaptations of Spanish Golden Age plays created 
 Information was gathered from a wide array of sources, including playbills, press coverage, personal and institutional archives, correspondence, photographs, and scholarly publications. This documentary evidence was further enriched through interviews. The data collection process took place between 2023 and 2025.
 
 The dataset will continue to grow as new material becomes available. We welcome input from anyone with knowledge of additional Golden Age productions involving Spanish Republican exiles. Please contact Alba Carmona (a.l.carmona@bham.ac.uk).
+
 Fully searchable, extractable and reusable, the dataset offers a valuable resource for scholars in Hispanic Studies, particularly those focusing on Early Modern theatre and the cultural legacy of exile.
 
 **Language:** English
