@@ -13,9 +13,10 @@ Author: Alba Carmona, University of Birmingham, a.l.carmona@bham.ac.uk
 ## DESCRIPTION
 **Abstract:**
 
-This dataset records theatrical adaptations of Spanish Golden Age plays created by Republican exiles from Franco’s regime between 1936 and 1981. It contains 251 entries, including stage performances, radio dramas, and dramatised readings.
-The dataset was developed as part of the Digital Humanities project _EXODUS. Mapping a Lost Tradition: Golden Age Drama in Spanish Republican Exile_, took place at the University of Leeds (UK) and was funded by the Horizon Europe Guarantee (Principal Investigator: Alba Carmona).
+This dataset records theatrical adaptations of Spanish Golden Age plays created by Republican exiles from Franco’s regime between 1936 and 1981. It contains 251 entries, including stage performances, radio dramas, and dramatised readings. The dataset was developed as part of the Digital Humanities project _EXODUS. Mapping a Lost Tradition: Golden Age Drama in Spanish Republican Exile_, took place at the University of Leeds (UK) and was funded by the Horizon Europe Guarantee (Principal Investigator: Alba Carmona).
+
 Information was gathered from a wide array of sources, including playbills, press coverage, personal and institutional archives, correspondence, photographs, and scholarly publications. This documentary evidence was further enriched through interviews. The data collection process took place between 2023 and 2025.
+
 The dataset will continue to grow as new material becomes available. We welcome input from anyone with knowledge of additional Golden Age productions involving Spanish Republican exiles. Please contact Alba Carmona (a.l.carmona@bham.ac.uk).
 Fully searchable, extractable and reusable, the dataset offers a valuable resource for scholars in Hispanic Studies, particularly those focusing on Early Modern theatre and the cultural legacy of exile.
 
