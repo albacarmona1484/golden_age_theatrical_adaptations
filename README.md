@@ -55,4 +55,4 @@ Involved_Exiles: Names of Republican exiles involved in the production
 
 ## **Acknowledgements**
 
-We thank Georgia Rose (University of Leeds) for their assistance in cleaning and standardising the dataset.
+We thank Georgia Rose (University of Leeds) for her assistance in cleaning and standardising the dataset.
